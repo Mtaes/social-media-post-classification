@@ -1,0 +1,8 @@
+{
+    "lgbmclassifier__n_estimators": 250,
+    "lgbmclassifier__num_leaves": 100,
+    "pipeline__columntransformer__pipeline-1__countvectorizer__ngram_range": [
+        1,
+        1
+    ]
+}
